@@ -5,6 +5,8 @@ Autocomplete que permite pesquisar o registro pelo código ou pelo nome. Para ch
 
 ![Alt text](/screenshots/screenshot_01.png?raw=true "Ilustração do autocomplete em execução")
 
+Na implementação foi utilizado o *template* *ADMIN-LTE*, então para usá-lo será necessário apenas chamar as classes *CSS* do *template*.
+
 ## Como usar 
 
 Primeiro é preciso instalar de forma global o *json-server*, este por sua vez permite simular um *API Rest* através de um arquivo *.json*. Para instalar o *json-server* de forma global basta usar o comando:
