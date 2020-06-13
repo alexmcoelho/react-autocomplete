@@ -9,7 +9,7 @@ Na implementação foi utilizado o *template* *ADMIN-LTE*, então para usá-lo s
 
 ## Como usar 
 
-Primeiro é preciso instalar de forma global o *json-server*, este por sua vez permite simular um *API Rest* através de um arquivo *.json*. Para instalar o *json-server* de forma global basta usar o comando:
+Primeiro é preciso instalar de forma global o *json-server*, este por sua vez permite simular uma *API Rest* através de um arquivo *.json*. Para instalar o *json-server* de forma global basta usar o comando:
 
     npm i json-server -g
 
