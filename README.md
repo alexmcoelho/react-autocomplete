@@ -3,7 +3,7 @@
 ## Resumo
 Autocomplete que permite pesquisar o registro pelo código ou pelo nome. Para chegar a esse resultado foi utilizado a dependência *react-autosuggest* com algumas personalizações.
 
-![Alt text](/screenshots/screenshot_01.png?raw=true "Ilustração do autocomplete funcionando")
+![Alt text](/screenshots/screenshot_01.png?raw=true "Ilustração do autocomplete em execução")
 
 ## Como usar 
 
