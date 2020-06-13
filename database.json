@@ -1,0 +1,65 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "Informática",
+            "codDescription": "000001 - Informática"
+        },
+        {
+            "id": 2,
+            "name": "Escritório",
+            "codDescription": "000002 - Escritório"
+        },
+        {
+            "id": 3,
+            "name": "Cama",
+            "codDescription": "000003 - Cama"
+        },
+        {
+            "id": 4,
+            "name": "Eletrônicos",
+            "codDescription": "000004 - Eletrônicos"
+        },
+        {
+            "id": 5,
+            "name": "Jardinagem",
+            "codDescription": "000005 - Jardinagem"
+        },
+        {
+            "id": 6,
+            "name": "Decoração",
+            "codDescription": "000006 - Decoração"
+        },
+        {
+            "id": 7,
+            "name": "Perfumaria",
+            "codDescription": "000007 - Perfumaria"
+        }
+    ],
+    "city" : [
+        {
+            "id": 1,
+            "name": "Uberlândia",
+            "state": {
+                "id": 1,
+                "name": "Minas Gerais"
+            }
+        },
+        {
+            "id": 2,
+            "name": "São Paulo",
+            "state": {
+                "id": 2,
+                "name": "São Paulo"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Ituporanga",
+            "state": {
+                "id": 3,
+                "name": "Santa Catarina"
+            }
+        }
+    ]
+}
