@@ -13,7 +13,7 @@ Agora parar simular uma *API Rest*, dentro da pasta do projeto basta usar o coma
 
     json-server --watch database.json --port 8084
 
-O arquivo *database.json* tem os registros no formato .JSON que irão formar a base de dados da API. Para mais informações esse link -> https://www.fabricadecodigo.com/json-server/.
+O arquivo *database.json* tem os registros no formato .JSON que irão formar a base de dados da API. Para mais informações esse o link -> https://www.fabricadecodigo.com/json-server/.
 
 Para executar o projeto basta instalar as dependências e em seguida executar o projeto.
 
